@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1420974353 source:c:\users\w\desktop\instrumente muzicale\main.cpp
+	<iostream>
+	"MagazinInstrumente.h"
+	<string>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1420973839 c:\users\w\desktop\instrumente muzicale\include\magazininstrumente.h
+	"Instrument.h"
+
+1420972565 c:\users\w\desktop\instrumente muzicale\include\instrument.h
+
+1420973973 source:c:\users\w\desktop\instrumente muzicale\src\instrument.cpp
+	"Instrument.h"
+	<iostream>
+	<cstring>
+
+1420975229 source:c:\users\w\desktop\instrumente muzicale\src\magazininstrumente.cpp
+	"MagazinInstrumente.h"
+	<cstring>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1420973973 source:c:\users\lenovo\desktop\instrumente muzicale\src\instrument.cpp
+	"Instrument.h"
+	<iostream>
+	<cstring>
+
+1421013777 c:\users\lenovo\desktop\instrumente muzicale\include\instrument.h
+
+1421015826 source:c:\users\lenovo\desktop\instrumente muzicale\src\magazininstrumente.cpp
+	"MagazinInstrumente.h"
+	<cstring>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1420973839 c:\users\lenovo\desktop\instrumente muzicale\include\magazininstrumente.h
+	"Instrument.h"
+
+1421015826 source:c:\users\lenovo\desktop\instrumente muzicale\main.cpp
+	<iostream>
+	"MagazinInstrumente.h"
+	<string>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1622840665 source:c:\users\emanuela\desktop\instrumente muzicale\main.cpp
+	<iostream>
+	"MagazinInstrumente.h"
+	<string>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1420977439 c:\users\emanuela\desktop\instrumente muzicale\include\magazininstrumente.h
+	"Instrument.h"
+
+1622840577 c:\users\emanuela\desktop\instrumente muzicale\include\instrument.h
+
+1420977573 source:c:\users\emanuela\desktop\instrumente muzicale\src\instrument.cpp
+	"Instrument.h"
+	<iostream>
+	<cstring>
+
+1622840876 source:c:\users\emanuela\desktop\instrumente muzicale\src\magazininstrumente.cpp
+	"MagazinInstrumente.h"
+	<cstring>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1420977573 source:c:\users\emanuela\desktop\betti. an 2 sem 2\poo proiect\instrumente muzicale\src\instrument.cpp
+	"Instrument.h"
+	<iostream>
+	<cstring>
+
+1622840577 c:\users\emanuela\desktop\betti. an 2 sem 2\poo proiect\instrumente muzicale\include\instrument.h
+
+1622840876 source:c:\users\emanuela\desktop\betti. an 2 sem 2\poo proiect\instrumente muzicale\src\magazininstrumente.cpp
+	"MagazinInstrumente.h"
+	<cstring>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1420977439 c:\users\emanuela\desktop\betti. an 2 sem 2\poo proiect\instrumente muzicale\include\magazininstrumente.h
+	"Instrument.h"
+
+1623702002 source:c:\users\emanuela\desktop\betti. an 2 sem 2\poo proiect\instrumente muzicale\main.cpp
+	<iostream>
+	"MagazinInstrumente.h"
+	<string>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
